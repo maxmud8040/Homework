@@ -133,10 +133,10 @@
 # avto1 = Avto("Malibu","Qora",2024,"Avtomat",400000000,5000)
 # avto2 = Avto("Supra","Oq",1990,"Mexanik",750000000,150000)
 
-avtosalon.add_avto(avto1)
-avtosalon.add_avto(avto2)
+# avtosalon.add_avto(avto1)
+# avtosalon.add_avto(avto2)
 
-avtosalon.all_cars()
+# avtosalon.all_cars()
 #                                            7 - topshiriq
 # Avtosalondagi avtomobillar haqida ma'lumot qaytaruvchi metod yozing
 #
